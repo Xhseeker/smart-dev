@@ -33,7 +33,7 @@
   - [3.3 不同模式下的提示词](https://github.com/anarchysaiko/smart-dev/blob/main/docs/chapter3/chapter3.md)
   - [3.4 支持性提示词](https://github.com/anarchysaiko/smart-dev/blob/main/docs/chapter3/chapter3.md)
   - [3.5 用户如何自定义具有特定功能的提示词](https://github.com/anarchysaiko/smart-dev/blob/main/docs/chapter3/chapter3.md)
-- [进阶篇 第4章 用MCP服务搭建你的第一个ai编程项目](https://github.com/anarchysaiko/smart-dev/blob/main/docs/chapter4/chapter4.md)
+- [进阶篇 第4章 MCP服务](https://github.com/anarchysaiko/smart-dev/blob/main/docs/chapter4/chapter4.md)
   - 等待更新
 
 ## 贡献者名单

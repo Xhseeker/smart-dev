@@ -34,7 +34,16 @@
   - [3.4 支持性提示词](https://github.com/datawhalechina/smart-dev/blob/main/docs/chapter3/chapter3.md)
   - [3.5 用户如何自定义具有特定功能的提示词](https://github.com/datawhalechina/smart-dev/blob/main/docs/chapter3/chapter3.md)
 - [进阶篇 第4章 MCP服务](https://github.com/datawhalechina/smart-dev/blob/main/docs/chapter4/chapter4.md)
-  - 等待更新
+  - [4.1 什么是MCP服务](https://github.com/datawhalechina/smart-dev/blob/main/docs/chapter4/chapter4.md)
+  - [4.2 MCP服务的工作原理](https://github.com/datawhalechina/smart-dev/blob/main/docs/chapter4/chapter4.md)
+  - [4.3 使用python创建一个MCP服务](https://github.com/datawhalechina/smart-dev/blob/main/docs/chapter4/chapter4.md)
+    - [4.3.1 准备工作](https://github.com/datawhalechina/smart-dev/blob/main/docs/chapter4/chapter4.md)
+    - [4.3.2 使用Python创建简单的MCP服务](https://github.com/datawhalechina/smart-dev/blob/main/docs/chapter4/chapter4.md)
+  - [4.4 添加MCP服务](https://github.com/datawhalechina/smart-dev/blob/main/docs/chapter4/chapter4.md)
+  - [4.5 在Roo Code调用MCP服务](https://github.com/datawhalechina/smart-dev/blob/main/docs/chapter4/chapter4.md)
+  - [4.6 MCP服务的未来发展](https://github.com/datawhalechina/smart-dev/blob/main/docs/chapter4/chapter4.md)
+  - [4.7 总结](https://github.com/datawhalechina/smart-dev/blob/main/docs/chapter4/chapter4.md)
+  - [4.8 参考学习资源](https://github.com/datawhalechina/smart-dev/blob/main/docs/chapter4/chapter4.md)
 
 ## 贡献者名单
 

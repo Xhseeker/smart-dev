@@ -31,7 +31,6 @@ macOS系统用户下载好vscode之后，解压缩会得到一个“Visual Studi
 
 ![Roo Code安装](https://s2.loli.net/2025/02/20/4XRzSA7yCcgZN2h.png)
 
-
 ![点击Install按钮](https://s2.loli.net/2025/02/20/1g835qMzbYHnJrT.png)
 
 ![选择信任并安装](https://s2.loli.net/2025/02/20/3MhHk4VidesK96o.png)
@@ -66,15 +65,15 @@ macOS系统用户下载好vscode之后，解压缩会得到一个“Visual Studi
 
 ![硅基流动创建API-key](https://s2.loli.net/2025/02/20/mvp9EFz1kISfrxN.png)
 
-点击密钥进行复制，打开Roo Code的初始化界面，点击“API Provider”下拉列表，选择“**OpenAI Compatible**”，在下方“Base URL”输入`https://api.siliconflow.cn/v1`,“API Key”输入硅基流动平台复制的密钥，"Model"页面搜索“**deepseek-ai/DeepSeek-R1**”，选中即可添加成功。
+点击密钥进行复制，打开Roo Code的初始化界面，点击“API Provider”下拉列表，选择“**OpenAI Compatible**”，在下方“Base URL”输入 `https://api.siliconflow.cn/v1`,“API Key”输入硅基流动平台复制的密钥，"Model"页面搜索“**deepseek-ai/DeepSeek-R1**”，选中即可添加成功。
 
 ![非官方渠道配置](https://s2.loli.net/2025/02/20/zGeL19ERhOKvNF2.png)
 
 这里补充硅基流动中deepseek-ai/DeepSeek-R1与Pro/eepseek-ai/DeepSeek-R1的区别：
 
-|区别|deepseek-ai/DeepSeek-R1|Pro/deepseek-ai/DeepSeek-R1|
-|---|---|---|
-|是否可用赠费|既可使用赠费，也可使用充值余额|只能使用充值余额|
-|是否需要实名使用|未实名用户每日最多请求此模型 100 次|无需实名|
+| 区别             | deepseek-ai/DeepSeek-R1             | Pro/deepseek-ai/DeepSeek-R1 |
+| ---------------- | ----------------------------------- | --------------------------- |
+| 是否可用赠费     | 既可使用赠费，也可使用充值余额      | 只能使用充值余额            |
+| 是否需要实名使用 | 未实名用户每日最多请求此模型 100 次 | 无需实名                    |
 
 至此，环境下载、安装和配置全部结束。欢迎大家补充其他渠道deepseek的接入方法。

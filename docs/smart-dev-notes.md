@@ -1,6 +1,6 @@
 ## chapter1
 
-第1章 环境下载、安装与配置
+***环境下载、安装与配置***
 
 * vscode下载与安装
 * Roo Code下载与安装
@@ -32,3 +32,19 @@
 8. 需求分析-项目开发-迭代优化
 
 ## chapter3
+
+提示词（Prompts）配置，提示词是Prompt，是用户向llm输入的一段文本，用于指导llm生成符合用户要求的输出。
+
+> [插入链接，github](https://github.com/Xhseeker?tab=repositories)
+
+> [跳转到目标文件](chapter3/chapter3.md)
+
+llm回答的语言及自定义规则，不同模式下llm的提示词，支持性提示词
+
+- 可以在项目中新建.clinerules文件，将项目要求、技术栈写入文件
+
+![1742287609551](image/smart-dev-notes/1742287609551.png)
+
+- 若要将整个提示词迁移到其他编程工具中使用，可以点击下方“**Preview System Prompt**”按钮，将提示词复制到剪贴板中
+- 支持性提示词
+- 自定义有特定功能的提示词

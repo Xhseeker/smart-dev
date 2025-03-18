@@ -74,7 +74,7 @@ Depending on the user's request, you may need to do some information gathering (
 
 也就是说，我们也可以在项目中新建.clinerules-architect文件，将模式特定自定义指令写入这个文件，让大语言模型**依据特定的项目需求**，生成符合要求的代码。
 
-如果大家想将整个提示词迁移到其他编程工具中使用，可以点击下方“**Preview System Prompt**”按钮，将提示词复制到剪贴板中，这种模式下的提示词经过了高度抽象，因此长度会非常长。
+如果大家想，这种模式下的提示词经过了高度抽象，因此长度会非常长。
 
 ![Code模式下的系统提示词](https://s2.loli.net/2025/02/26/IJA9vX6NwoZzFxB.png)
 

@@ -52,7 +52,7 @@ cd python-mcp-server
 pip install mcp
 ```
 
-2. 创建一个`main.py`文件，内容如下：
+2. 创建一个 `main.py`文件，内容如下：
 
 ```python
 # 导入必要的模块
@@ -137,7 +137,7 @@ python app.py
 1. 点击Roo Code菜单栏中的"**MCP Servers**"
 2. 启用"**Enable MCP Servers**"和"**Enable MCP Server Creation**"
 3. 点击"**Edit MCP Settings**"，会出现一个json文件
-4. 编辑`cline_mcp_settings.json`文件，这里给出我的配置文件，并且解释每个配置项的含义(由于json中不允许出现注释，因此大家在实际编辑文件中，请去掉注释)：
+4. 编辑 `cline_mcp_settings.json`文件，这里给出我的配置文件，并且解释每个配置项的含义(由于json中不允许出现注释，因此大家在实际编辑文件中，请去掉注释)：
 
 ```
 {
@@ -154,7 +154,7 @@ python app.py
 }
 ```
 
-保存后`cline_mcp_settings.json`文件，Roo Code会**自动连接并启用**该服务。
+保存后 `cline_mcp_settings.json`文件，Roo Code会**自动连接并启用**该服务。
 
 ![MCP服务添加成功](https://s2.loli.net/2025/03/03/iwBfMbvD7ApktuV.png)
 
@@ -171,7 +171,6 @@ python app.py
 可以看到，Roo Code会要求你调用已经链接的MCP服务器，并且成功输出response：
 
 ![Roo Code调用服务](https://s2.loli.net/2025/03/03/QHnO6GB2Rdictv8.png)
-
 
 ## 4.6 MCP服务的未来发展
 

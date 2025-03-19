@@ -54,3 +54,20 @@ llm回答的语言及自定义规则，不同模式下llm的提示词，支持�
 ## - 提示词smart-prompt
 
 ## chapter4
+
+MCP（Model Context Protocol），允许Roo Code与本地运行的MCP服务器进行通信的协议
+
+- 可以实现功能扩展，数据整合，自定义工具
+
+  ![1742298436812](image/smart-dev-notes/1742298436812.png)
+- MCP服务实际上是一个遵循特定协议的服务器，它与Roo Code进行通信，提供各种功能接口。
+- 了解基本的HTTP服务器概念
+- MCP服务器
+
+MCP服务都为AI辅助编程提供了无限可能。随着你对MCP服务的熟悉和深入理解，你将能够创建越来越强大的工具来增强你的AI编程体验。
+
+[MCP官方项目](https://github.com/modelcontextprotocol/servers)
+
+[MCP文档](https://modelcontextprotocol.io/introduction)
+
+[精选MCP服务器](https://github.com/punkpeye/awesome-mcp-servers)
